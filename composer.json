@@ -1,12 +1,12 @@
 {
-  "name": "beyondcode/laravel-comments",
-  "description": "Add comments to your Laravel application",
+  "name": "supplycart/laravel-comments",
+  "description": "Add comments to your Laravel application. Forked from beyondcode/laravel-comments",
   "keywords": [
     "beyondcode",
     "comments",
     "laravel-comments"
   ],
-  "homepage": "https://github.com/beyondcode/laravel-comments",
+  "homepage": "https://github.com/supplycart/laravel-comments",
   "license": "MIT",
   "authors": [
     {
